@@ -1,6 +1,5 @@
 import numpy as np
 from scipy.constants import g
-from nptyping import Array
 
 
 class Ballistic3D:
